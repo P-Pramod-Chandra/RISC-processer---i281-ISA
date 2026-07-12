@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But allow directories to be traversed
+!*/
+
+# Track .v files anywhere
+!*.v
+
+# allow .gitignore files to be tracked
+!*.gitignore
